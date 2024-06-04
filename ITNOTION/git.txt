@@ -1,4 +1,4 @@
-thttps://panjeh.medium.com/cleaning-up-git-github-repository-without-deleting-git-directory-c86b7415b51b
+https://panjeh.medium.com/cleaning-up-git-github-repository-without-deleting-git-directory-c86b7415b51b
 
 
  GIT  (git repository ITNOTION) 
@@ -95,7 +95,7 @@ git reset --hard   -Everything up-to-date
   Git Connekt repository
 sudo apt update
 sudo apt upgrade -y
-git clone https://github.com/vov4e4/pet_DevOps.git
+https://github.com/vov4e4/pet_DevOps.git
 git clone https://github.com/vov4e4/ITNOTION.git
 git init
 git remote add origin https://github.com/vov4e4/ITNOTION.git

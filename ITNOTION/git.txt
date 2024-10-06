@@ -93,6 +93,10 @@ git reset --hard   -Everything up-to-date
 
 
   Git Connekt repository
+
+
+git reset --hard 
+
 sudo apt update
 sudo apt upgrade -y
 https://github.com/vov4e4/pet_DevOps.git

@@ -10,8 +10,4 @@ Changes not staged for commit:
 	modified:   notice (modified content, untracked content)
 	modified:   pet (modified content, untracked content)
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	.vscode/
-
 no changes added to commit (use "git add" and/or "git commit -a")

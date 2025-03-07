@@ -1,0 +1,202 @@
+
+interactive rebase in progress; onto 7870b5c
+Last command done (1 command done):
+   pick 3643a3e set
+No commands remaining.
+You are currently rebasing branch 'main' on '7870b5c'.
+  (fix conflicts and then run "git rebase --continue")
+  (use "git rebase --skip" to skip this patch)
+  (use "git rebase --abort" to check out the original branch)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   .vscode/extensions.json
+	new file:   Agent
+	new file:   Dcker_Laravel_del1/app.dockerfile
+	new file:   Dcker_Laravel_del1/docker-compose.yml
+	new file:   Dcker_Laravel_del1/file.txt
+	new file:   Dcker_Laravel_del1/readme.md
+	new file:   Dcker_Laravel_del1/vhost.conf
+	new file:   Dcker_Laravel_del1/web.dockerfile
+	new file:   Docker Apache/Apache2.md
+	new file:   Docker Apache/Dockerfile
+	new file:   Docker LAMP/Dockerfile
+	new file:   Docker LAMP/LAMP.txt
+	new file:   Docker LAMP/README.md
+	new file:   Docker LAMP/docker-compose.yml
+	new file:   Docker LAMP/dump/myDb.sql
+	new file:   Docker LAMP/www/index.php
+	new file:   labo/Dcker_Laravel_del1/app.dockerfile
+	new file:   labo/Dcker_Laravel_del1/docker-compose.yml
+	new file:   labo/Dcker_Laravel_del1/file.txt
+	new file:   labo/Dcker_Laravel_del1/readme.md
+	new file:   labo/Dcker_Laravel_del1/vhost.conf
+	new file:   labo/Dcker_Laravel_del1/web.dockerfile
+	new file:   labo/Docker Apache/Apache2.md
+	new file:   labo/Docker Apache/Dockerfile
+	new file:   labo/Docker LAMP/Dockerfile
+	new file:   labo/Docker LAMP/LAMP.txt
+	new file:   labo/Docker LAMP/README.md
+	new file:   labo/Docker LAMP/docker-compose.yml
+	new file:   labo/Docker LAMP/dump/myDb.sql
+	new file:   labo/Docker LAMP/www/index.php
+	new file:   labo/git.sh
+	new file:   labo/gitStatus.txt
+	new file:   labo/notice/AAAtop.txt
+	new file:   labo/notice/Docker.txt
+	new file:   labo/notice/Localhost.txt
+	new file:   labo/notice/RaspBerryPi4
+	new file:   labo/notice/Vagrand_udemy
+	new file:   labo/notice/Vagrantfile
+	new file:   labo/notice/Vagrantfile_stock
+	new file:   labo/notice/ansible_hosts.txt
+	new file:   labo/notice/ansible_yaml/install_apache2.yaml
+	new file:   labo/notice/ansible_yaml/service.yaml
+	new file:   labo/notice/ansible_yaml/update.yaml
+	new file:   labo/notice/bash_script/bashscript.txt
+	new file:   labo/notice/bash_script/sysinfo.sh
+	new file:   labo/notice/bash_script/update.sh
+	new file:   labo/notice/centOS
+	new file:   labo/notice/git.sh
+	new file:   labo/notice/git.txt
+	new file:   labo/notice/gitStatus.txt
+	new file:   labo/notice/kubernetes.txt
+	new file:   labo/notice/lpic/ConfigSysSSH
+	new file:   labo/notice/lpic/DevOpsPlan.md
+	new file:   labo/notice/lpic/HDD2601.txt
+	new file:   labo/notice/lpic/IP change.txt
+	new file:   labo/notice/lpic/JournalFS.txt
+	new file:   labo/notice/lpic/LANwanMAN.txt
+	new file:   labo/notice/lpic/OSI
+	new file:   labo/notice/lpic/OSI.txt
+	new file:   labo/notice/lpic/SQL.txt
+	new file:   labo/notice/lpic/access.txt
+	new file:   labo/notice/lpic/all.txt
+	new file:   labo/notice/lpic/ansibleSSH.txt
+	new file:   labo/notice/lpic/appdel.txt
+	new file:   labo/notice/lpic/autoMountHDD.txt
+	new file:   labo/notice/lpic/balance_haproxy.txt
+	new file:   labo/notice/lpic/bluetooth.txt,
+	new file:   labo/notice/lpic/build_mysql.sh
+	new file:   labo/notice/lpic/cron.txt
+	new file:   labo/notice/lpic/file.txt
+	new file:   labo/notice/lpic/filesys.txt
+	new file:   labo/notice/lpic/firewalUFW.txt
+	new file:   labo/notice/lpic/interview.txt
+	new file:   labo/notice/lpic/iptablesALTERNATIVEfirewall.txt
+	new file:   labo/notice/lpic/lesson
+	new file:   labo/notice/lpic/random.txt
+	new file:   labo/notice/lpic/service_sustemctl_systemd.txt
+	new file:   labo/notice/lpic/ssh.txt
+	new file:   labo/notice/lpic/systemd_systemctl.txt
+	new file:   labo/notice/lpic/terminall.txt
+	new file:   labo/notice/lpic/user.txt
+	new file:   labo/notice/lpic/users.txt
+	new file:   labo/notice/lpic/vim.txt
+	new file:   labo/notice/lpic/warning.txt
+	new file:   labo/notice/python.txt
+	new file:   labo/notice/soft.txt
+	new file:   labo/notice/terraform
+	new file:   labo/notice/web_sites.txt
+	new file:   labo/other/Dockerfile
+	new file:   labo/other/docker/toolbox/minDockerfile
+	new file:   labo/other/docker/toolbox/pipelineDockerfile
+	new file:   labo/other/docker/toolbox/xxxDockerfile
+	new file:   labo/other/index.py
+	new file:   labo/other/jenkins/docker_build.jenkins
+	new file:   labo/other/jenkins/docker_build_example.jenkins
+	new file:   labo/other/jenkins/first_steps.jenkins
+	new file:   labo/other/jenkins/pipe_docker_commite.jenkins
+	new file:   labo/other/jenkins/pipeline.jenkins
+	new file:   labo/other/jenkins/pipeline1.jenkins
+	new file:   labo/other/jenkins/pipeline2.jenkins
+	new file:   labo/other/jenkins/pipelinessh.jenkins
+	new file:   labo/other/main.yml
+	new file:   labo/pet_DevOps
+	new file:   notice/AAAtop.txt
+	new file:   notice/Docker.txt
+	new file:   notice/Localhost.txt
+	new file:   notice/RaspBerryPi4
+	new file:   notice/Vagrand_udemy
+	new file:   notice/Vagrantfile
+	new file:   notice/Vagrantfile_stock
+	new file:   notice/ansible_hosts.txt
+	new file:   notice/ansible_yaml/install_apache2.yaml
+	new file:   notice/ansible_yaml/service.yaml
+	new file:   notice/ansible_yaml/update.yaml
+	new file:   notice/bash_script/bashscript.txt
+	new file:   notice/bash_script/sysinfo.sh
+	new file:   notice/bash_script/update.sh
+	new file:   notice/centOS
+	new file:   notice/git.sh
+	new file:   notice/git.txt
+	new file:   notice/gitStatus.txt
+	new file:   notice/kubernetes.txt
+	new file:   notice/lpic/ConfigSysSSH
+	new file:   notice/lpic/DevOpsPlan.md
+	new file:   notice/lpic/HDD2601.txt
+	new file:   notice/lpic/IP change.txt
+	new file:   notice/lpic/JournalFS.txt
+	new file:   notice/lpic/LANwanMAN.txt
+	new file:   notice/lpic/OSI
+	new file:   notice/lpic/OSI.txt
+	new file:   notice/lpic/SQL.txt
+	new file:   notice/lpic/access.txt
+	new file:   notice/lpic/all.txt
+	new file:   notice/lpic/ansibleSSH.txt
+	new file:   notice/lpic/appdel.txt
+	new file:   notice/lpic/autoMountHDD.txt
+	new file:   notice/lpic/balance_haproxy.txt
+	new file:   notice/lpic/bluetooth.txt,
+	new file:   notice/lpic/build_mysql.sh
+	new file:   notice/lpic/cron.txt
+	new file:   notice/lpic/file.txt
+	new file:   notice/lpic/filesys.txt
+	new file:   notice/lpic/firewalUFW.txt
+	new file:   notice/lpic/interview.txt
+	new file:   notice/lpic/iptablesALTERNATIVEfirewall.txt
+	new file:   notice/lpic/lesson
+	new file:   notice/lpic/random.txt
+	new file:   notice/lpic/service_sustemctl_systemd.txt
+	new file:   notice/lpic/ssh.txt
+	new file:   notice/lpic/systemd_systemctl.txt
+	new file:   notice/lpic/terminall.txt
+	new file:   notice/lpic/user.txt
+	new file:   notice/lpic/users.txt
+	new file:   notice/lpic/vim.txt
+	new file:   notice/lpic/warning.txt
+	new file:   notice/python.txt
+	new file:   notice/soft.txt
+	new file:   notice/terraform
+	new file:   notice/web_sites.txt
+	new file:   other/Dockerfile
+	new file:   other/docker/toolbox/minDockerfile
+	new file:   other/docker/toolbox/pipelineDockerfile
+	new file:   other/docker/toolbox/xxxDockerfile
+	new file:   other/index.py
+	new file:   other/jenkins/docker_build.jenkins
+	new file:   other/jenkins/docker_build_example.jenkins
+	new file:   other/jenkins/first_steps.jenkins
+	new file:   other/jenkins/pipe_docker_commite.jenkins
+	new file:   other/jenkins/pipeline.jenkins
+	new file:   other/jenkins/pipeline1.jenkins
+	new file:   other/jenkins/pipeline2.jenkins
+	new file:   other/jenkins/pipelinessh.jenkins
+	new file:   other/main.yml
+
+Unmerged paths:
+  (use "git restore --staged <file>..." to unstage)
+  (use "git add <file>..." to mark resolution)
+	both added:      ansible config for LU20.04.txt
+	both added:      gitStatus.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   labo/pet_DevOps (modified content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	pet/
+

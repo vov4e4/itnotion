@@ -1,2 +1,0 @@
-ctrl+s.  Hold terminal
-ctrl+q. Unlock terminal

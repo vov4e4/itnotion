@@ -92,18 +92,14 @@ git reset --hard   -Everything up-to-date
   git push -u origin main
 
 
-git reset --hard 
-
-
-Git Connect repository
-
+  Git Connekt repository
 sudo apt update
 sudo apt upgrade -y
-git clone https://github.com/vov4e4/pet_DevOps.git
+https://github.com/vov4e4/pet_DevOps.git
 git clone https://github.com/vov4e4/ITNOTION.git
 git init
-git remote add mein https://github.com/vov4e4/ITNOTION.git
-git remote set-url mein https://github.com/vov4e4/ITNOTION.git
+git remote add origin https://github.com/vov4e4/ITNOTION.git
+git remote set-url origin https://github.com/vov4e4/ITNOTION.git
 gh repo clone REPOSITORY
 gh repo clone https://github.com/vov4e4/ITNOTION.git
 git clone https://github.com/vov4e4/ITNOTION
